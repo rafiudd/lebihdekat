@@ -662,3 +662,54 @@ h3 {
   background: #2DCE89;
   color: #015330;
 }
+
+.title__news {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 25px;
+  /* or 125% */
+  color: #173949;
+}
+
+.date__news{
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 35px;
+  /* identical to box height, or 250% */
+  color: #173949;
+}
+
+.desc__news{
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 24px;
+  /* or 160% */
+  color: #173949;
+}
+
+.link__news {
+  font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+text-decoration-line: underline;
+
+color: #E8A04A;
+}
+
+.desc__news{
+  padding-right: 50px;
+}
+
+.full {
+  width: 83%;
+  margin: 0 auto;
+}
+
+.button-outline-white {
+  width: 200px;
+height: 50px;
+background: #FFFFFF;
+border: 1px solid #34525F;
+box-sizing: border-box;
+border-radius: 4px;
+}
